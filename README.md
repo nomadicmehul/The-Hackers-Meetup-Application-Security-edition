@@ -1,5 +1,5 @@
 # The-Hackers-Meetup-Application-Security-edition
-The Hacker's Meet-Up is doing a Monthly Meet-Ups to provide a proper platform for the cyber security researchers as well as security enthusiast people who really inserted to learn something and take exposure of latest trends and issues in cyber security, deep dive into security domain and build a community.
+The Hacker's Meet-Up is a proper platform for the cyber security researchers as well as security enthusiast people who really inserted to learn something and take exposure of latest trends and issues in cyber security, deep dive into security domain and build a community.
 
 This "The Hackers Meetup" is a Application Security special edition, in which Amazing Security experts gather at one platfomr to share their knowledge and experities with security enthusiasts. 
 
